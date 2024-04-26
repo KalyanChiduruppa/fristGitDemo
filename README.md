@@ -1,2 +1,5 @@
 # fristGitDemo
-it my first repository
+it my first repository.
+<br>
+Author - kalyanChiduruppa
+
